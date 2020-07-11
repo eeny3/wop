@@ -1,7 +1,8 @@
 # wop
 Dungeon based adventure game. Play as a wizard and save the princess!
 
-You will encounter loads of monsters, 2 mini-bosses and 1 final boss
+You will encounter loads of monsters, 2 mini-bosses and 1 final boss.
+
 Controls:
 - WASD for movement
 - Q + <mouse_postion> for fireball
